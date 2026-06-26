@@ -34,7 +34,7 @@ const RESOURCE_TYPES = ["NCERT", "Assignments", "Study Material", "PYQs"];
 const EXAMS = ["JEE Main", "JEE Advanced", "BITSAT", "VITEEE"];
 
 const MOCK_STUDENT = {
-  name: "Arjun Sharma",
+  name: "Yoga Vignesh",
   class: "Class 12",
   target: "IIT Bombay – CSE",
   avatar: "AS",
